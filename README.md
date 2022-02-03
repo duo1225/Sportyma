@@ -14,4 +14,4 @@ React-Redux:
 
 Utilise:
 • npm start
-• w pour tester sur le Web
+• Si vous avez des conflits, vous pouvez utiliser 'w' pour tester sur le Web
